@@ -1,0 +1,47 @@
+{
+  "name": "@typescript-package/map",
+  "version": "1.0.0",
+  "author": "wwwdev.io <dev@wwwdev.io>",
+  "description": "A lightweight TypeScript library for enhanced `map` management.",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "peerDependencies": {
+    "@typescript-package/data": "^5.0.0"
+  },
+  "scripts": {
+    "prepublishOnly": "npm run pkg && npm run clean",
+    "pkg": "npm pkg delete dependencies",
+    "clean": "npm pkg delete scripts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typescript-package/map.git"
+  },
+  "bugs": {
+    "url": "https://github.com/typescript-package/map/issues"
+  },
+  "keywords": [
+    "@typescript-package",
+    "@typescript-package/data",
+    "@typescript-package/map",
+    "Data",
+    "CoreMap",
+    "DataMap",
+    "FactoryMap",
+    "WeakDataMap"
+  ],
+  "funding": [
+    {
+      "type": "stripe",
+      "url": "https://donate.stripe.com/dR614hfDZcJE3wAcMM"
+    },
+    {
+      "type": "individual",
+      "url": "https://checkout.revolut.com/pay/048b10a3-0e10-42c8-a917-e3e9cb4c8e29"
+    }
+  ],
+  "sideEffects": false
+}
