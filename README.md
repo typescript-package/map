@@ -291,21 +291,21 @@ MIT © typescript-package ([license][typescript-package-license])
 
 <!-- This package: typescript-package  -->
   <!-- GitHub: badges -->
-  [typescript-package-badge-issues]: https://img.shields.io/github/issues/typescript-package/data
-  [isscript-package-badge-forks]: https://img.shields.io/github/forks/typescript-package/data
-  [typescript-package-badge-stars]: https://img.shields.io/github/stars/typescript-package/data
-  [typescript-package-badge-license]: https://img.shields.io/github/license/typescript-package/data
+  [typescript-package-badge-issues]: https://img.shields.io/github/issues/typescript-package/map
+  [isscript-package-badge-forks]: https://img.shields.io/github/forks/typescript-package/map
+  [typescript-package-badge-stars]: https://img.shields.io/github/stars/typescript-package/map
+  [typescript-package-badge-license]: https://img.shields.io/github/license/typescript-package/map
   <!-- GitHub: badges links -->
-  [typescript-package-issues]: https://github.com/typescript-package/data/issues
-  [typescript-package-forks]: https://github.com/typescript-package/data/network
-  [typescript-package-license]: https://github.com/typescript-package/data/blob/master/LICENSE
-  [typescript-package-stars]: https://github.com/typescript-package/data/stargazers
+  [typescript-package-issues]: https://github.com/typescript-package/map/issues
+  [typescript-package-forks]: https://github.com/typescript-package/map/network
+  [typescript-package-license]: https://github.com/typescript-package/map/blob/master/LICENSE
+  [typescript-package-stars]: https://github.com/typescript-package/map/stargazers
 <!-- This package -->
 
 <!-- Package: typescript-package -->
   <!-- npm -->
-  [typescript-package-npm-badge-svg]: https://badge.fury.io/js/@typescript-package%2Fdata.svg
-  [typescript-package-npm-badge]: https://badge.fury.io/js/@typescript-package%2Fdata
+  [typescript-package-npm-badge-svg]: https://badge.fury.io/js/@typescript-package%2Fmap.svg
+  [typescript-package-npm-badge]: https://badge.fury.io/js/@typescript-package%2Fmap
 
 <!-- GIT -->
 [git-semver]: http://semver.org/
