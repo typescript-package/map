@@ -2,9 +2,12 @@
  * Public API Surface of map
  */
 export {
+  // Abstract.
   CoreMap,
+  MapOnHook,
+ 
+  // Class.
   DataMap,
   FactoryMap,
-  MapOnHook,
   WeakDataMap,
 } from './lib';
