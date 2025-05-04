@@ -64,7 +64,7 @@ import {
 The abstract core class is designed for building `Map` and `DataCore` related classes.
 
 ```typescript
-import { CoreMap } from '@typescript-package/data';
+import { CoreMap } from '@typescript-package/map';
 ```
 
 ### `DataMap`
@@ -72,7 +72,7 @@ import { CoreMap } from '@typescript-package/data';
 The `DataMap` is a concrete class that extends `Map` and encapsulates its data within a `DataCore` store, providing additional data management capabilities.
 
 ```typescript
-import { DataMap } from '@typescript-package/data';
+import { DataMap } from '@typescript-package/map';
 
 // Define a `DataCore` implementation for holding a data in `DataMap`.
 export class CustomMapData<Key, Value> extends Data<Map<Key, Value>> {
@@ -134,7 +134,7 @@ console.log("Size after clear:", dataMap.size); // Output: Size after clear: 0
 ### `FactoryMap`
 
 ```typescript
-import { FactoryMap } from '@typescript-package/data';
+import { FactoryMap } from '@typescript-package/map';
 
 // Define custom `Map`.
 export class CustomMap<Key, Value> extends Map<Key, Value> {
@@ -181,7 +181,7 @@ console.debug(factoryMap.sort()); // sort.
 The `WeakDataMap` class is a concrete class that stores data in a static `WeakMap`.
 
 ```typescript
-import { WeakDataMap } from '@typescript-package/data';
+import { WeakDataMap } from '@typescript-package/map';
 
 // Create an instance of `WeakDataMap`.
 const weakDataMap = new WeakDataMap([
