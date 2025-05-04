@@ -25,6 +25,7 @@
   },
   "keywords": [
     "@typescript-package",
+    "@typescript-package/data",
     "@typescript-package/map",
     "Data",
     "CoreMap",
