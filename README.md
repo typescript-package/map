@@ -284,6 +284,7 @@ MIT © typescript-package ([license][typescript-package-license])
 - **[@typescript-package/queue](https://github.com/typescript-package/queue)**: A **lightweight TypeScript** library for managing various queue and stack structures.
 - **[@typescript-package/range](https://github.com/typescript-package/range)**: A **lightweight TypeScript** library for managing various types of ranges.
 - **[@typescript-package/regexp](https://github.com/typescript-package/regexp)**: A **lightweight TypeScript** library for **RegExp**.
+- **[@typescript-package/set](https://github.com/typescript-package/set)**: A lightweight **TypeScript** library for enhanced `set` management.
 - **[@typescript-package/state](https://github.com/typescript-package/state)**: Simple state management for different types in **TypeScript**.
 - **[@typescript-package/storage](https://github.com/typescript-package/storage)**: The storage of data under allowed names.
 - **[@typescript-package/type](https://github.com/typescript-package/type)**: Utility types to enhance and simplify **TypeScript** development.
